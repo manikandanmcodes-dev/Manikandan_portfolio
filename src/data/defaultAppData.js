@@ -23,11 +23,6 @@ export const defaultAppData = {
       "href": "#portfolio"
     },
     {
-      "id": "nav-4",
-      "label": "Testimonials",
-      "href": "#testimonials"
-    },
-    {
       "id": "nav-5",
       "label": "Blog",
       "href": "#blog"
@@ -216,34 +211,6 @@ export const defaultAppData = {
         "color": "#00ffcc",
         "fullContent": "ReturnGuard is a WordPress/WooCommerce plugin designed to detect and prevent return abuse in e-commerce platforms.\nThe system analyzes customer return behavior, tracks patterns over time, and assigns a risk score based on predefined rules and behavioral analysis.\nIt helps store owners identify suspicious users, reduce losses from fraudulent returns, and enforce smarter return policies.",
         "image": "https://kinsta.com/wp-content/uploads/2021/09/abstract-wordpress-plugin-1024x512.jpg"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Social Proof",
-    "title": "What Clients Say",
-    "desc": "Words from the people I've had the privilege of building for.",
-    "items": [
-      {
-        "id": "t-1",
-        "name": "Arjun Mehta",
-        "role": "CTO, TechNova Labs",
-        "quote": "Working with this developer was a game-changer. The attention to UI detail and performance is on another level. Our Lighthouse score went from 62 to 99 overnight.",
-        "avatar": "AM"
-      },
-      {
-        "id": "t-2",
-        "name": "Sophie Laurent",
-        "role": "Founder, Lumière Studio",
-        "quote": "The scrollytelling website he built for our brand won us a CSS Design Award within 2 weeks of launch. Pure craft and cinematic execution.",
-        "avatar": "SL"
-      },
-      {
-        "id": "t-3",
-        "name": "Marcus Chen",
-        "role": "Product Lead, Apex Analytics",
-        "quote": "From architecture to the smallest hover animation — every detail was thoughtfully considered. The dashboard he built our team still rave about daily.",
-        "avatar": "MC"
       }
     ]
   },
